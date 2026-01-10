@@ -1,0 +1,5 @@
+Giải thích các câu lệnh 
+- Git init (dùng để khởi tạo 1 repository)
+- Git add <File name> (dùng để thêm mới 1 file đó vào vùng staging, chỉ định để track file đó)
+- Git add . (dùng để add toàn bộ file thay đổi vào vùng staginng)
+- Git commit -m "message" (dùng để tạo ra message những file thay đổi để chuyển từ vùng staging sang vùng repository)

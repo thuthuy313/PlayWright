@@ -1,0 +1,6 @@
+a. tạo 3 file: file1, file2, file3 (vùng local)
+b. Chạy lệnh: git init (vùng working)
+c. Chạy lệnh: git commit -m”init project” (vùng repo sitory)
+d. Chạy lệnh: git add file1 (vùng staging)
+e. Chạy lệnh: git commit -m”add file1” (vùng repo sitory)
+f. Chạy lệnh: git commit -m”add file” (vùng repo sitory)
